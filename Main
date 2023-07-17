@@ -15,7 +15,7 @@
 
 :root {
   --main-color: #9805F1;
-  --hover-color: #00F0FF;
+  --hover-color: #17A9BD;
   --success-color: #2196F3;
   --danger-color: #312BB9;
   --url-color: #0DE9E9;
