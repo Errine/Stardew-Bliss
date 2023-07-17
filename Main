@@ -19,7 +19,7 @@
   --success-color: #2196F3;
   --danger-color: #312BB9;
   --url-color: #0DE9E9;
-  --undefined: 0;
+  --undefined: #2196F3;
   --background-image: url('https://i.imgur.com/8h5OMJV.jpg');
   --background-shading: 50%;
   --background-position: Bottom left;
